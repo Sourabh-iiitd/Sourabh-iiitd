@@ -6,51 +6,85 @@
 
 ---
 
-## 🌟 About Me
+# 🚀 About Me
 
-🎓 B.Tech Computer Science & Biosciences Student @ IIIT Delhi  
-💻 Passionate about Software Development & Problem Solving  
-🧠 Strong focus on Data Structures & Algorithms  
-🌐 Exploring Full Stack Development  
-🚀 Love building real-world projects  
-🎯 Focused on strong coding fundamentals  
+🔭 Working on **Data Structures & Algorithms**, **Full Stack Development** and **System Design**  
+👯 Open to collaborating on hackathons, dev projects & CP contests  
+🤝 Exploring optimization techniques & advanced problem solving  
+🌱 Learning **Advanced Java**, **Backend Development**, and strengthening DSA  
+💬 Ask me about coding challenges, web dev & DSA preparation  
+⚡ Fun fact: **Consistency beats motivation**
 
 ---
 
-## 🌐 Socials
+# 🌐 Socials
 
-<p align="center">
-
-<a href="https://instagram.com/__sourabh.kashyap__">
-<img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:sourabh24563@iiitd.ac.in">
-<img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sourabh-iiitd">
-<img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p align="left">
+  <a href="https://instagram.com/__sourabh.kashyap__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:sourabh24563@iiitd.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/sourabh-iiitd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/Sourabh_18/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Programming
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 🗄 Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
 # 🧩 LeetCode
 
+## 🏅 Badges
+
 <p align="center">
+
 <a href="https://leetcode.com/u/Sourabh_18/">
-<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-1F6FEB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A192F&scale=2" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="200"/>
 </a>
-</p>
 
----
+<a href="https://leetcode.com/u/Sourabh_18/">
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="200"/>
+</a>
 
-## 🏅 LeetCode Achievements
+<a href="https://leetcode.com/u/Sourabh_18/">
+<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="200"/>
+</a>
 
-<p align="center">
-<img height="300" src="https://leetcode-badge-showcase.vercel.app/api?username=Sourabh_18&theme=dark&border=border&animated=true" />
 </p>
 
 ---
@@ -58,60 +92,31 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-<img height="300" src="https://leetcard.jacoblin.cool/Sourabh_18?theme=dark&font=Baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Sourabh_18?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-0A192F?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python)
-
----
-
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-0A192F?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0A192F?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-0A192F?style=for-the-badge&logo=next.js)
-![NodeJS](https://img.shields.io/badge/NodeJS-0A192F?style=for-the-badge&logo=node.js)
-
----
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb)
-![MariaDB](https://img.shields.io/badge/MariaDB-0A192F?style=for-the-badge&logo=mariadb)
-
----
-
-### ⚙ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-0A192F?style=for-the-badge&logo=figma)
-![Netlify](https://img.shields.io/badge/Netlify-0A192F?style=for-the-badge&logo=netlify)
-![Vercel](https://img.shields.io/badge/Vercel-0A192F?style=for-the-badge&logo=vercel)
-
----
-
-# 📊 GitHub Analytics
+## 📅 LeetCode Activity Heatmap
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sourabh-iiitd&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-iiitd&theme=tokyonight&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/Sourabh_18?theme=dark&ext=heatmap" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-iiitd&theme=react"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-iiitd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/sourabh-iiitd?cardType=level&theme=highcontrast&preferLogin=false"/>
 </p>
 
 ---
 
-## ✨ Dev Philosophy
+# ✨ Dev Philosophy
 
-> Consistency beats intensity. Small progress daily builds unstoppable momentum.
+> Consistency beats motivation. Small progress daily builds unstoppable momentum.
