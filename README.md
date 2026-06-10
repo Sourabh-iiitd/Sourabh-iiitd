@@ -100,7 +100,7 @@
 ## 📅 LeetCode Activity Heatmap
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Sourabh_18?theme=dark&ext=heatmap" />
+<img width="1146" height="232" alt="image" src="https://github.com/user-attachments/assets/066ecc34-b2a6-47c8-a07a-4b556d662ea2" />
 </p>
 
 ---
